@@ -18,6 +18,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <a href="https://www.hackerrank.com/ibtescobedo" target"_blank"><img align="right" src="https://img.shields.io/badge/HackerRank-follow-biggreen" target="_blank"></a>
 </div>
 
 ##
