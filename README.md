@@ -29,3 +29,5 @@
   <a href="https://t.me/ibtibeth" target"_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
 </div>
+  
+![Snake animation](https://github.com/IbtIbeth/IbtIbeth/blob/output/github-contribution-grd-snake.svg)
