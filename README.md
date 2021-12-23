@@ -1,4 +1,4 @@
-## Holaa, Este es un espacio para mis locuras ¡BIENVENIDE!
+## Holaa, este es un espacio para mis locuras ¡BIENVENIDE!
 - 📚 Estudiando: Tecnologías para la información en ciencias
 - 📊 Especialización: Ciencias de la información 
 
